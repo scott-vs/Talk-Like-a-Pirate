@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Talk Like A Pirate</fullName>
+    <types>
+        <members>TalkLikeYeSeaDog</members>
+        <members>TestinThWaters</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>YeOldCommentTrigger</members>
+        <members>YeOldItemTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>TalkLikeAPirate__c.Enabled__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>TalkLikeAPirate__c</members>
+        <name>CustomObject</name>
+    </types>
+    <version>25.0</version>
+</Package>
